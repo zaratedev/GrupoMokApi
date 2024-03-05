@@ -10,7 +10,7 @@
 1. Clone este repositorio
 
 ```
-
+git clone https://github.com/zaratedev/GrupoMokApi.git
 ```
 
 2. Ingrese a la carpeta del proyecto
