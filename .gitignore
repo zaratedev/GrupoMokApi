@@ -1,0 +1,24 @@
+# Directorios generados automáticamente
+bin/
+obj/
+node_modules/
+wwwroot/
+
+# Archivos de dependencias de NuGet
+*.nuget.props
+*.nuget.targets
+!.nuget.props
+!.nuget.targets
+
+# Archivos de caché y logs
+[Cc]ache/
+logs/
+npm-debug.log*
+
+# Archivos de usuario y configuración local
+*.user
+*.suo
+*.sln.docstates
+.vscode/
+.idea/
+*.vs/

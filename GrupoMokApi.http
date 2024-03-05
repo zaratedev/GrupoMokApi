@@ -1,0 +1,6 @@
+@GrupoMokApi_HostAddress = http://localhost:5129
+
+GET {{GrupoMokApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
